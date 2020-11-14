@@ -1,0 +1,42 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Sat Nov 14 15:01:31 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000004
+                   .org_2       code   0x000008    program   0x000002
+                   .org_3       code   0x000018    program   0x00004e
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000003      
+                            0x000008    0x000009      
+                            0x000018    0x000065      
+            84 out of 33048 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    again   0x000022    program     static D:\microP\quiz6delay29ms\quiz.asm
+                   again2   0x000026    program     static D:\microP\quiz6delay29ms\quiz.asm
+                    delay   0x00001e    program     static D:\microP\quiz6delay29ms\quiz.asm
+                    start   0x00001a    program     static D:\microP\quiz6delay29ms\quiz.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    start   0x00001a    program     static D:\microP\quiz6delay29ms\quiz.asm
+                    delay   0x00001e    program     static D:\microP\quiz6delay29ms\quiz.asm
+                    again   0x000022    program     static D:\microP\quiz6delay29ms\quiz.asm
+                   again2   0x000026    program     static D:\microP\quiz6delay29ms\quiz.asm
+
+
